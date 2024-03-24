@@ -1,0 +1,11 @@
+Como o usuário pode encontrar outras opções de estabelecimentos 
+Gostaria de realizar compras em outros pequenos microempreendedores
+Para que aumente o consumo próximo ao cliente
+
+Critérios de aceitação
+1. Interface que tenha todas as empresas participantes do aplicativo
+2. Permita que o usuário pesquise através do endereço ou localização atual estabelecimentos próximos
+3. Que o usuário seja capaz de abrir cada opção de loja para ver mais sobre a empresa e o seu benefício
+4. Permitir que o ambiente seja seguro e não perca nenhum de seus cartões de fidelidade
+
+Pontuação: 13
