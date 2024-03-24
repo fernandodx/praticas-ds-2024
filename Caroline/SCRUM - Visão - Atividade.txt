@@ -1,0 +1,10 @@
+Objetivo principal
+O fideliza-aí busca oferecer um aplicativo de fidelização de clientes, mostrando os microempreendedores que participam dessa aplicação, com o objetivo de aumentar o faturamento dessas pequenas empresas.
+
+Pelo menos 3 funcionalidades principais
+Cadastro de cliente
+Encontrar a quantidade de carimbos em cada estabelecimentos
+Verificar quais são os microempreendedores participantes
+Metas de curto ou longo prazo
+Verificar quais lugares próximos à você, possuem esse sistema de pontuação
+Empresa: Acompanhe seus resultados, relatório de compras dos clientes
