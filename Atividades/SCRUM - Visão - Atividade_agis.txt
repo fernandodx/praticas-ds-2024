@@ -1,0 +1,21 @@
+Atividade individual Visão da Aplicação 
+
+ - Escreva a visão da aplicação do seu PTCC
+  - Deve conter:
+   • Objetivo Principal
+   Desenvolver um sistema de gestão escolar integrado que otimize os processos administrativos e acadêmicos de uma instituição de ensino, proporcionando 
+   maior eficiência, transparência e colaboração entre alunos, professores, funcionários e gestores.
+   • Pelo menos 3 funcionalidades principais
+    - Registro de ocorrência: sem uniforme, atrasado, fazendo bagunça
+
+   • Metas de curto ou longo prazo
+   Implementar as funcionalidades básicas de cadastro de alunos, professores e disciplinas até o final do primeiro trimestre.
+Desenvolver um protótipo funcional do sistema para testes internos até o final do segundo trimestre.
+Realizar testes de usabilidade e coletar feedback dos usuários para refinamento do sistema durante o terceiro trimestre.
+Metas de Longo Prazo:
+
+Lançar a versão inicial do sistema para uso piloto em uma turma ou departamento específico até o final do semestre.
+Realizar ajustes com base no feedback dos usuários durante o período piloto e preparar o sistema para implementação em larga escala até o final do ano.
+Promover treinamentos para os usuários finais e garantir uma transição suave para o novo sistema de gestão escolar no início do próximo ano letivo.
+
+ENTREGA: 04/04/2024
