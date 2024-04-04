@@ -1,0 +1,12 @@
+Objetivo principal:ser referência em automatização de atendimentos no Instituto Federal de Brasília campus Brasília. 
+
+Funcionalidades principais:
+ - Gerenciar senhas preferenciais e comuns.
+ - Armazenar dados sobre atividades que ocorrem no registro acadêmico
+do IFB campus Brasília.
+ - Gerar relatórios a partir de consultas ao banco de dados. 
+
+Metas: 
+ - Concentrar todos os atendimentos solicitados ao registro acadêmico em um único lugar em até 1 ano.
+ - Integrar ao banco de dados principal do R.A. para fins de associação.
+ - Desenvolvimento de planos de resposta a incidentes de segurança para lidar com possíveis violações de dados.
