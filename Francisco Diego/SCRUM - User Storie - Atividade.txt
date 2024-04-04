@@ -1,0 +1,15 @@
+SCRUM - User Storie - Atividade.txt
+
+História do usuário
+
+Como um docente da instituição ao realizar registro de ocorrências,
+Gostaria de realiza-lo em poucos cliques sem perder a eficácia,
+Para que não se omita ocorrências ao mesmo tempo que não tome muito tempo de suas aulas.
+
+Critérios de aceitação
+
+1 – Registro em sua maior parte com botões e seleção, com o mínimo de necessidade de digitação de textos.
+2 – Permitir ao usuário acesso por diferentes tipos de dispositivos.
+3 – Garantir uma tela simples que facilite a leitura e escolha de opções a fim de evitar erro nas escolhas.
+
+Pontuação: 13
