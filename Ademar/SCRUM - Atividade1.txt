@@ -1,0 +1,79 @@
+1. Qual é um dos pilares do SCRUM?
+   a) Eficiência
+   b) Transparência correta
+   c) Hierarquia
+   d) Rigidez
+
+Resposta: Letra b
+
+2. Qual é a importância de entregar coisas de valor desde a primeira entrega, de acordo com o modelo incremental?
+   a) Para aumentar a complexidade do projeto
+   b) Para reduzir o custo do desenvolvimento
+   c) Para obter feedback precoce e validar o valor entregue (correta)
+   d) Para impressionar os stakeholders com recursos avançados
+
+Resposta: Letra  C
+
+3. Qual é um dos papéis no SCRUM responsável por entender o negócio da aplicação?
+   a) Scrum Master 
+   b) Product Owner (PO) (correta)
+   c) Time de Desenvolvimento
+   d) UX/UI Designer
+
+Resposta: Letra B
+
+4. Qual é uma das responsabilidades do Scrum Master?
+   a) Desenvolver o produto
+   b) Resolver os impedimentos do time (correta)
+   c) Definir o escopo do projeto 
+   d) Priorizar o backlog do produto
+
+Resposta: Letra B
+
+5. Qual é um dos pilares do SCRUM?
+   a) Hierarquia
+   b) Adaptação (correta)
+   c) Rigidez
+   d) Autonomia
+
+Resposta:Letra B
+
+6. Qual é a duração típica de uma Sprint no SCRUM?
+   a) 1 mês 
+   b) 6 meses
+   c) 2 semanas (correta)
+   d) 1 ano
+
+Resposta: Letra C
+
+7. Qual é a principal função da Reunião Diária no SCRUM?
+   a) Planejar a próxima sprint
+   b) Revisar o produto com o PO
+   c) Discutir os pontos positivos e negativos da sprint
+   d) Sincronizar o time e identificar obstáculos (correta)
+
+Resposta: Letra D
+
+8. Quem é responsável por criar e gerenciar o Product Backlog no SCRUM?
+   a) Scrum Master 
+   b) Time de Desenvolvimento
+   c) Product Owner (PO)(correta)
+   d) Stakeholders
+
+Resposta: Letra C
+
+9. Qual artefato do SCRUM é uma lista de todas as atividades que precisam ser realizadas no projeto?
+   a) Sprint Backlog
+   b) Product Backlog (correta)
+   c) Burn-down chart
+   d) Incremento
+
+Resposta: Letra B
+
+10. Quando é realizada a Revisão da Sprint no SCRUM?
+    a) No final de cada dia de trabalho
+    b) No início de cada sprint
+    c) No final de cada sprint (correta)
+    d) Durante a reunião diária
+
+Resposta: Letra C
