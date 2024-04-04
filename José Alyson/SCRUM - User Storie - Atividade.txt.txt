@@ -1,0 +1,11 @@
+Eu, como coordenador do R.A., gostaria de que eu tivesse fácil acesso aos dados já armazenados de atendimentos existentes para que eu tivesse noção 
+acerca de períodos sazonais.
+
+Critérios de aceitação:
+1. Deve existir uma interface que retorna dados do banco de dados e o coordenador possa acessá-los facilmente.
+2. O acesso deve ser rápido e eficiente, sem a necessidade de realizar edições.
+3. Deve ser possível filtrar os dados retornados para que haja melhor compreensão.
+
+Pontuação:
+Acredito que fica em 5. Os maiores desafios serão de realmente construir uma interface intuitiva ao usuário e o carregamento dos dados,
+para que não demore acessar o banco de dados e retornar.
