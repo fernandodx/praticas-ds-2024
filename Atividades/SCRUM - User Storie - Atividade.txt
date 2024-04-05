@@ -1,0 +1,13 @@
+Atividade individual Scrum User Storie
+
+ - Escolha uma história de usuário do PTCC de vocês e escreva uma uma História de usuário.
+  - Deve conter:
+  	• Sintaxe básica de escrita de história de usuário
+  		Eu como <Papel>
+		Gostaria que <O quê>
+		Para Que <Porquê>
+	• Critérios de aceitação
+	• Pontuação
+
+
+ENTREGA: 04/04/2024
