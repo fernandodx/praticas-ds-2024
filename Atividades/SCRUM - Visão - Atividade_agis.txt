@@ -7,6 +7,8 @@ Atividade individual Visão da Aplicação
    maior eficiência, transparência e colaboração entre alunos, professores, funcionários e gestores.
    • Pelo menos 3 funcionalidades principais
     - Registro de ocorrência: sem uniforme, atrasado, fazendo bagunça
+    - Relatórios de ocorrências;
+    - Agendamento de atendimento;
 
    • Metas de curto ou longo prazo
    Implementar as funcionalidades básicas de cadastro de alunos, professores e disciplinas até o final do primeiro trimestre.
