@@ -1,0 +1,29 @@
+Atividade-Visão-da-Aplicação 
+
+Escreva a visão da aplicação do seu PTCC
+Deve conter:
+
+Objetivo Principal
+
+Pelo menos 3 funcionalidades principais
+Registro de Ocorrências: Os usuários poderão registrar diferentes tipos 
+de ocorrências escolares, como comportamentais, disciplinares, médicas, entre outras.
+
+Relatórios de Desempenho Escolar: A aplicação possibilitará a 
+geração de relatórios de desempenho escolar para cada aluno, 
+fornecendo informações sobre seu progresso acadêmico, comportamental 
+e de participação nas atividades escolares.
+
+Informativos ao país: Caso haja alguma ocorrência de maior gravidade 
+durante o horário das aulas.
+ 	
+Metas de curto ou longo prazo
+
+Curto prazo: Desenvolver a aplicação para que os professores 
+registrem e gerenciem incidentes de forma eficiente. 
+Gerar relatórios para os conselhos de classe sobre as ocorrências geradas.
+
+Longo prazo: Aperfeiçoar o sistema, adicionando recursos avançados, 
+como notificações automáticas, histórico de ocorrências.
+
+ENTREGA: 04/04/2024
