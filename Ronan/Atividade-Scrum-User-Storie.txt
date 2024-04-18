@@ -1,0 +1,24 @@
+Atividade-Scrum-User-Storie
+
+Escolha uma história de usuário do PTCC de vocês e escreva uma uma história de usuário.
+
+Deve conter:
+Sintaxe básica de escrita de história de usuário
+Eu como professor do ensino médio em uma escola privada no Distrito Federal, gostaria que as 
+ocorrências escolares fossem tratadas. Isso permitirá a geração de um relatório mensal abrangente, 
+que possa ser aproveitado de forma significativa durante o conselho de classe e no processo de 
+desenvolvimento dos alunos. Para que esse processo seja conduzido de maneira organizada e ágil, 
+garantindo que as informações sejam devidamente registradas e utilizadas para promover um ambiente 
+
+escolar mais produtivo.
+
+Critérios de aceitação:
+Os professores devem ter a capacidade de registrar ocorrências.
+As ocorrências devem ser registradas com data e hora.
+O relatório deve ser claro, organizado e de fácil compreensão.
+confidencialidade e segurança das informações registradas é essencial.
+
+Pontuação:
+10
+
+ENTREGA: 04/04/2024

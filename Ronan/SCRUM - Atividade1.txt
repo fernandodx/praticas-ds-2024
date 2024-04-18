@@ -4,7 +4,7 @@
    c) Hierarquia
    d) Rigidez
 
-Resposta: 
+Resposta: Transparência
 
 2. Qual é a importância de entregar coisas de valor desde a primeira entrega, de acordo com o modelo incremental?
    a) Para aumentar a complexidade do projeto
@@ -12,7 +12,7 @@ Resposta:
    c) Para obter feedback precoce e validar o valor entregue
    d) Para impressionar os stakeholders com recursos avançados
 
-Resposta: 
+Resposta: Para reduzir o custo do desenvolvimento
 
 3. Qual é um dos papéis no SCRUM responsável por entender o negócio da aplicação?
    a) Scrum Master
@@ -20,7 +20,7 @@ Resposta:
    c) Time de Desenvolvimento
    d) UX/UI Designer
 
-Resposta: 
+Resposta: Product Owner (PO)
 
 4. Qual é uma das responsabilidades do Scrum Master?
    a) Desenvolver o produto
@@ -28,7 +28,7 @@ Resposta:
    c) Definir o escopo do projeto
    d) Priorizar o backlog do produto
 
-Resposta: 
+Resposta: Resolver os impedimentos do time.
 
 5. Qual é um dos pilares do SCRUM?
    a) Hierarquia
@@ -36,7 +36,7 @@ Resposta:
    c) Rigidez
    d) Autonomia
 
-Resposta: 
+Resposta: Adaptação
 
 6. Qual é a duração típica de uma Sprint no SCRUM?
    a) 1 mês
@@ -44,7 +44,7 @@ Resposta:
    c) 2 semanas
    d) 1 ano
 
-Resposta: 
+Resposta: 2 semanas
 
 7. Qual é a principal função da Reunião Diária no SCRUM?
    a) Planejar a próxima sprint
@@ -52,7 +52,7 @@ Resposta:
    c) Discutir os pontos positivos e negativos da sprint
    d) Sincronizar o time e identificar obstáculos
 
-Resposta: 
+Resposta: Revisar o produto com o PO
 
 8. Quem é responsável por criar e gerenciar o Product Backlog no SCRUM?
    a) Scrum Master
@@ -60,7 +60,7 @@ Resposta:
    c) Product Owner (PO)
    d) Stakeholders
 
-Resposta: 
+Resposta: Product Owner (PO)
 
 9. Qual artefato do SCRUM é uma lista de todas as atividades que precisam ser realizadas no projeto?
    a) Sprint Backlog
@@ -68,7 +68,7 @@ Resposta:
    c) Burn-down chart
    d) Incremento
 
-Resposta: 
+Resposta: Product Backlog 
 
 10. Quando é realizada a Revisão da Sprint no SCRUM?
     a) No final de cada dia de trabalho
@@ -76,4 +76,4 @@ Resposta:
     c) No final de cada sprint
     d) Durante a reunião diária
 
-Resposta: 
+Resposta: No final de cada sprint
