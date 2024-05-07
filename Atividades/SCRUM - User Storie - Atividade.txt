@@ -3,11 +3,14 @@ Atividade individual Scrum User Storie
  - Escolha uma história de usuário do PTCC de vocês e escreva uma uma História de usuário.
   - Deve conter:
   	• Sintaxe básica de escrita de história de usuário
-  		Eu como <Papel>
-		Gostaria que <O quê>
-		Para Que <Porquê>
+  		Eu como Gestor do processo de ocorrencias e adminstração escolar, necessito obter o controle diário dos
+		registros efetuados pelos docentes e solicitar as deligências necessárias quando o caso necessitar bem 
+		como manter informado o corpo de diretores da instituição.
+		Gostaria que o sistema fizesse a gestão atomática de casos em que não necessita minha avaliação, podendo
+		ser executado pelo próprio docente.
+		Para Que não haja acumulo de pendências e que as demandas graves sejam rapidamente atendidas.
 	• Critérios de aceitação
-	• Pontuação
+	• Pontuação 10
 
 
 ENTREGA: 04/04/2024
