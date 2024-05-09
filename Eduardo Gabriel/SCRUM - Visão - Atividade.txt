@@ -1,0 +1,9 @@
+Atividade individual Visão da Aplicação 
+
+ - Escreva a visão da aplicação do seu PTCC
+  - Deve conter:
+   • Objetivo Principal
+   • Pelo menos 3 funcionalidades principais
+   • Metas de curto ou longo prazo
+
+ENTREGA: 04/04/2024
