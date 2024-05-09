@@ -1,0 +1,16 @@
+Atividade individual Scrum User Storie
+
+ - Escolha uma história de usuário do PTCC de vocês e escreva uma uma História de usuário.
+  - Deve conter:
+  	• Sintaxe básica de escrita de história de usuário
+  		Eu como Coordenador do NAPNE necessito que minha equipe de psicopedagogos,
+        analise com tempestividade os relatórios de diagnosticos dos alunos, para efetivar os encaminhamentos necessários.
+		Gostaria que o sistema que será implementado encaminhe imediatamente o pedido para a equipe, quando o professor
+        finalizar a análise, para os profissionais da psicopedagogia, e eu consiga monitorar os processos.
+		Para que o estudante tenha o laudo com menor tempo possível, para que seja tomado as providências.
+	• Critérios de aceitação
+        - professor
+	• Pontuação 8
+
+
+ENTREGA: 04/04/2024

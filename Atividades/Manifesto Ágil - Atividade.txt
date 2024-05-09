@@ -1,5 +1,0 @@
-1 - Faça uma pesquisa sobre o método RUP. Como é a forma que ele faz software? Encontre características e adicione ao gráfico Tempo X Dinheiro no Miro. Fazer a mesma coisa para o método Ágil. 
-Use os 3 grupos já montados na matéria de empreendedorismo. 
-Escolha um do grupo para criar uma Pasta no repositório dele(a) chamada Grupo [n˚] e faça o pull request com o print da tela no Miro e um arquivo.txt com todos os nomes dos integrantes.
-
-Link do Miro: https://miro.com/welcomeonboard/QVNCV0FhWEZ6Ukp4S09IYlFLUThyZVVTM3NIQ3kwd24xQm5NQkRnRTV6aW5YaGNQS1hCV3VhR2RwNGFuakE3RnwzNDU4NzY0NTgxNjA3OTM3NjU2fDI=?share_link_id=831052664898 
