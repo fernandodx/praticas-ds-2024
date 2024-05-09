@@ -1,0 +1,25 @@
+Praticas de Desenvolvimento de Software
+Aluna: Samara De Sá
+
+Escolha uma história de usuário do PTCC de vocês e escreva uma uma História de usuário:
+
+Uma escola de jardim de infacia está organizando festas de fim de ano e passeios com os alunos, e o profesor de cada turma fica responsavel por gerenciar os gastos com comida para alimentar os alunos, dividindo o valor entre os pais. 
+
+Sintaxe básica de escrita de história de usuário:
+
+Eu como professor do jardim de infância,
+desejo poder utilizar uma plataforma online para coordenar pedidos em grupo,
+facilitando a organização de eventos escolares, como festas e passeios.
+
+Critérios de aceitação:
+
+Como usuário da plataforma, quero ter a capacidade de convidar os pais para participar do pedido em grupo. 
+Como usuário da plataforma, desejo selecionar os itens compartilhados para o pedido, como alimentos ou materiais necessários para o evento escolar.
+Como usuário da plataforma, espero que a divisão de custos entre os participantes seja realizada automaticamente, com base nas contribuições de cada um.
+
+Pontuação:
+
+Complexidade técnica: Moderada/Alta envolvendo integração de pagamento e comunicação entre os usuários.
+Complexidade do negócio: Moderada, visto que envolve a coordenação da escola.
+Riscos associados: Baixos, desde que as funcionalidades sejam implementadas de acordo com as expectativas dos usuários.
+Esforço de implementação: Médio, devido à necessidade de desenvolver uma interface intuitiva e implementar a lógica de divisão de custos.
