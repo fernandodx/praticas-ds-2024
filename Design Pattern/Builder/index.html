@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <!-- <script type="module" src="app-alert.js"></script> -->
+        <style>
+       
+            .alert-banner {
+                background-color: #037280; 
+                color: #fff; 
+                padding: 20px; 
+                border-radius: 16px; 
+                display: flex; 
+                margin: 40px;
+                font-family: 'Gill Sans';
+                display: none;
+            }
+    
+            .alert-icon {
+                margin-right: 15px; 
+                width: 40px; 
+                height: 40px; 
+            }
+
+            .alert-titulo {
+                font-size: 18px; 
+                margin-bottom: 5px; 
+            }
+    
+            .alert-msg {
+                font-size: 14px; 
+            }
+    
+            .alert-buttons {
+                margin-top: 15px; 
+                display: flex; 
+            }
+    
+            .alert-button {
+                padding: 8px 16px; 
+                margin-right: 10px; 
+                border: none; 
+                border-radius: 8px; 
+                cursor: pointer; 
+                font-size: 14px; 
+                color: #fff; 
+                background-color: #46932d; 
+            }
+           
+            .alert-button.cancel {
+                background-color: #d75b2a; 
+            }
+
+          
+        </style>
+       
+    </head>
+    <body>
+
+        <script type="module">
+            // import { AlertBuilder } from './app-alert.js';
+    
+            const showAlertButton = document.getElementById('showAlertButton');
+    
+            // showAlertButton.addEventListener('click', () => {
+            //     const alertBuilder = new AlertBuilder();
+            //     const alert = alertBuilder
+            //         .settitulo("Alerta!")
+            //         .setIcon("https://cdn-icons-png.flaticon.com/512/559/559343.png")
+            //         .setmsg("Este é um exemplo de alerta com um builder de verdade!")
+            //         .addButton("OK")
+            //         .addButton("Cancelar")
+            //         .addCallback(() => { 
+            //             console.log("COnfirmar ok"); 
+            //         })
+            //         .build();
+            //     alert.show();
+            // });
+
+            showAlertButton.addEventListener('click', () => {
+                show("https://cdn-icons-png.flaticon.com/512/559/559343.png", "Alerta sem Builder", "Este é um exemplo de alerta.", "Aceitar", "Rejeitar")
+            });
+
+            function show(icone, titulo, msg, txtBotaoAceitar, textoBotaoCancelar, callback) {
+
+                const alertBanner = document.querySelector('.alert-banner');
+                const iconeElement = alertBanner.querySelector('.alert-icon');
+                const tituloElement = alertBanner.querySelector('.alert-titulo');
+                const msgElement = alertBanner.querySelector('.alert-msg');
+                const botaoAceitar = alertBanner.querySelector('.alert-button');
+                const botaoCancelar = alertBanner.querySelector('.alert-button.cancel');
+
+                if (icone !== null) {
+                    iconeElement.src = icone;
+                    iconeElement.style.display = 'block';
+                } else {
+                    iconeElement.style.display = 'none';
+                }
+
+                if (titulo !== null) {
+                    tituloElement.textContent = titulo;
+                    tituloElement.style.display = 'block';
+                } else {
+                    tituloElement.style.display = 'none';
+                }
+
+                if (msg !== null) {
+                    msgElement.textContent = msg;
+                    msgElement.style.display = 'block';
+                } else {
+                    msgElement.style.display = 'none';
+                }
+
+                if (txtBotaoAceitar !== null) {
+                    botaoAceitar.textContent = txtBotaoAceitar;
+                    botaoAceitar.style.display = 'inline-block';
+                    botaoAceitar.addEventListener('click', () => {
+                        if (typeof callback === 'function') {
+                            callback();
+                        }
+                        alertBanner.style.display = 'none';
+                    });
+                } else {
+                    botaoAceitar.style.display = 'none';
+                }
+
+                if (textoBotaoCancelar !== null) {
+                    botaoCancelar.textContent = textoBotaoCancelar;
+                    botaoCancelar.style.display = 'inline-block';
+                    botaoCancelar.addEventListener('click', () => {
+                        alertBanner.style.display = 'none';
+                    });
+                } else {
+                    botaoCancelar.style.display = 'none';
+                }
+                alertBanner.style.display = 'inline-block';
+            }
+            
+
+        </script>
+        
+        <h1>BUILDER</h1>
+        <button id="showAlertButton">Alerta</button>
+      
+        <div class="alert-banner">
+            <img class="alert-icon" src="https://cdn-icons-png.flaticon.com/512/559/559343.png" alt="Icon">
+            <div class="alert-content">
+                <div class="alert-titulo">Título do Alerta</div>
+                <div class="alert-msg">Esta é uma mensagem de exemplo para o banner de alerta.</div>
+                <div class="alert-buttons">
+                    <button class="alert-button">Aceitar</button>
+                    <button class="alert-button cancel">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
