@@ -1,0 +1,19 @@
+Atividade individual Scrum User Storie
+
+ Eu como "Professor"
+Gostaria que = A plataforma permitisse o envio de recados diários aos pais, dos meus alunos.
+Para que = Eu possa comunicar informações importantes sobre o dia das crianças de forma eficiente e imediata. 
+
+Critérios de Aceitação:
+
+1- O professor deve poder acessar a plataforma com suas credenciais.
+2- O professor deve encontrar uma caixa de texto para "Enviar Recado Diário".
+3- A funcionalidade deve permitir a inclusão de texto e anexos (como fotos ou documentos).
+4- O recado deve ser enviado para o e-mail cadastrado dos pais dos alunos.
+5- Os pais devem receber uma notificação por e-mail com o recado enviado.
+6- O professor deve receber uma confirmação de que o recado foi enviado com sucesso.
+7- Os pais devem poder visualizar os recados antigos na plataforma.
+
+Pontuação:
+
+Estimativa de Pontuação: 5 pontos (considerando a complexidade e o esforço necessário para implementar a funcionalidade de envio de recados, incluindo a interface de usuário e a lógica de backend).
