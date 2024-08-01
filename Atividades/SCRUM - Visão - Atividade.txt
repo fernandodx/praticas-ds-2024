@@ -3,7 +3,16 @@ Atividade individual Visão da Aplicação
  - Escreva a visão da aplicação do seu PTCC
   - Deve conter:
    • Objetivo Principal
+   Controlar os registros de ocorrências diários do ambiente escolar
    • Pelo menos 3 funcionalidades principais
+   - relatórios de ocorrências diários;
+   - formulário de requisição de 
    • Metas de curto ou longo prazo
+   - aplicação de registros de ocorrências;
+   - geração de relatórios bimestrais.
+
+   longo Prazo
+   - Aplicação destop;
+   - Dashbord direção.
 
 ENTREGA: 04/04/2024
