@@ -1,0 +1,25 @@
+SCRUM - Visão - Atividade.txt
+
+SAA – Sistema de Acompanhamento do Aluno
+
+Objetivo Principal
+
+O SAA é uma aplicação de registro de ocorrências de alunos no intuito de permitir aos docentes lançar episódios relacionados aos alunos de forma rápida, proporcionando ao profissional realizar o registro tomando pouco tempo a assim garantir que não haja omissão nos registros, bem como minimizar o tempo gasto em interrupções das aulas.
+
+Funcionalidades Principais
+
+1 – Interface Intuitiva: Prioridade em uma interface intuitiva, fácil de usar, que permite o usuário realizar um ou vários registros em poucos cliques.
+2 – Responsivo: Garantir que usuário possa utilizar o sistema de qualquer aparelho, a fim de facilitar o acesso ao registro de ocorrências.
+3 – Geração de relatório: Permitir que os gestores possam gerar relatórios, no intuito de buscar maneiras que possibilitem prevenir ocorrências.
+
+Metas de Curto Prazo
+
+•	Melhorar a velocidade e a eficiência no registro de ocorrências.
+•	Manter as ocorrências cadastradas em um banco de dados seguro.
+•	Permitir a geração de relatórios das ocorrências registradas.
+
+Metas de Longo Prazo
+
+•	Explorar novas possibilidades de registros.
+•	Registro de ações tomadas com possibilidade de gerar relatoria para atestar eficácia nas atitudes tomadas.
+•	Possibilidade de integração com outros sistemas da instituição.
