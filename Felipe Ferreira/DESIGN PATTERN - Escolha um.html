@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>História de um Desenvolvedor</title>
+  </head>
+  <body>
+    <h2>Criar uma história com um problema.</h2>
+    <ul>
+      <li>Um código antes do problema.</li>
+      <li>
+        Criar um outro código com a solução do problema utilizando um design
+        pattern a sua escolha.
+      </li>
+    </ul>
+    
+    <h2>Observação</h2>
+    <ul>
+      <li>Coloque a história no index.html</li>
+      <li>Utilize um design Pattern que ainda não vimos em sala de aula.</li>
+    </ul>
+
+    <h1>História de um Desenvolvedor</h1>
+    <p>
+      Felipe era uma desenvolvedor que trabalhava em uma aplicação web que
+      precisava acessar um serviço externo para buscar informações. Ele escreveu
+      uma classe para gerenciar o acesso a esse serviço, mas começou a notar que
+      o tempo de resposta estava variando muito, o que causava uma experiência
+      ruim para os usuários. Após investigar, Felipe percebeu que seu código
+      estava acessando o serviço externo diretamente sem nenhum controle, o que
+      resultava em requisições desnecessárias e repetidas.
+    </p>
+
+    <p>Abaixo está o código que Felipe escreveu inicialmente:</p>
+    <pre>
+        <code>
+            class ExternalService {
+                fetchData() {
+                    console.log('Buscando dados do serviço externo...');
+                    // Código para buscar dados do serviço externo
+                    return { data: 'dados' };
+                }
+            }
+
+            // Código que usa a classe ExternalService
+            const service = new ExternalService();
+            console.log(service.fetchData());
+            console.log(service.fetchData());
+        </code>
+    </pre>
+
+    <p>
+      Felipe então decidiu refatorar seu código para utilizar o design pattern
+      Proxy, adicionando uma camada de controle para gerenciar as requisições ao
+      serviço externo e evitar chamadas repetidas desnecessárias.
+    </p>
+
+    <p>Abaixo está a solução que Felipe implementou:</p>
+    <pre>
+        <code>
+            class ExternalService {
+                fetchData() {
+                    console.log('Buscando dados do serviço externo...');
+                    // Código para buscar dados do serviço externo
+                    return { data: 'dados' };
+                }
+            }
+
+            class ExternalServiceProxy {
+                constructor() {
+                    this.externalService = new ExternalService();
+                    this.cache = null;
+                }
+
+                fetchData() {
+                    if (this.cache === null) {
+                        console.log('Cache vazio, buscando dados do serviço externo...');
+                        this.cache = this.externalService.fetchData();
+                    } else {
+                        console.log('Retornando dados do cache...');
+                    }
+                    return this.cache;
+                }
+            }
+
+            // Código que usa a classe ExternalServiceProxy
+            const serviceProxy = new ExternalServiceProxy();
+            console.log(serviceProxy.fetchData());
+            console.log(serviceProxy.fetchData());
+        </code>
+    </pre>
+
+    <p>
+      Com essa mudança, Felipe garantiu que as requisições ao serviço externo
+      fossem controladas e evitou chamadas repetidas desnecessárias, melhorando
+      significativamente o tempo de resposta da aplicação.
+    </p>
+
+    <h1>Explicação</h1>
+    <h2>Problema Inicial:</h2>
+
+    <p>
+      O código acessa diretamente o serviço externo toda vez que é necessário
+      buscar dados, resultando em múltiplas requisições desnecessárias e
+      variabilidade no tempo de resposta.
+    </p>
+
+    <h2>Solução com o Design Pattern Proxy:</h2>
+    <p>
+      O padrão Proxy é utilizado para fornecer um substituto ou ponto de acesso
+      a outro objeto, controlando o acesso a ele. No exemplo, Felipe refatorou
+      seu código para implementar um proxy para a classe ExternalService.
+    </p>
+
+    <p>
+      A classe ExternalServiceProxy adiciona uma camada de controle sobre as
+      requisições ao serviço externo. Ela mantém um cache dos dados buscados,
+      evitando chamadas repetidas ao serviço quando os dados já foram buscados
+      anteriormente.
+    </p>
+
+    <p>
+      O método fetchData da classe ExternalServiceProxy verifica se o cache está
+      vazio. Se estiver, ele busca os dados do serviço externo e armazena no
+      cache. Se o cache já contém os dados, ele retorna os dados do cache,
+      evitando uma nova requisição ao serviço externo.
+    </p>
+
+    <p>
+      Essa abordagem garante um controle mais eficiente das requisições ao
+      serviço externo, melhorando o desempenho e a experiência do usuário.
+    </p>
+  </body>
+</html>

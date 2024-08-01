@@ -1,0 +1,19 @@
+Atividade individual Visão da Aplicação 
+
+Objetivo Principal:
+
+Desenvolver uma pesquisa baseada em machine learning para prever a evasão escolar, capacitando instituições de ensino a identificar e intervir proativamente junto aos alunos em risco, reduzindo assim as taxas de abandono escolar.
+
+Funcionalidades Principais:
+
+Análise Preditiva de Dados: Utilização de algoritmos de machine learning para analisar grandes volumes de dados de alunos (como etnia, renda, sexo, idade, etc.) e prever quais estão mais propensos a abandonar o curso.
+
+Dashboard Interativo: Desenvolvimento de uma interface amigável e interativa onde os educadores podem visualizar os resultados das análises, identificar os alunos em risco, e entender os principais fatores que contribuem para a evasão.
+
+Recomendações para Intervenção: O sistema deve oferecer recomendações baseadas em dados para intervenções direcionadas a alunos específicos, ajudando assim a personalizar as ações dos educadores para prevenir a evasão escolar.
+
+Metas de Curto e Longo Prazo:
+
+Curto Prazo: Concluir a fase da pesquisa e iniciar o desenvolvimento dos dashboard para coleta de feedback e ajustes necessários.
+
+Longo Prazo: Expandir a utilização dessa pesquisa para múltiplas instituições de ensino, incluindo aprimoramentos com base na IA para prever tendências de evasão escolar em diferentes contextos educacionais e culturais. Além disso, desenvolver parcerias com órgãos governamentais e ONGs focadas na educação para ampliar o impacto social da solução.

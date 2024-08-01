@@ -1,0 +1,22 @@
+Atividade individual Scrum User Storie
+
+Título: Identificação Proativa de Riscos de Evasão Escolar
+
+História de Usuário:
+
+Eu como Coordenador Pedagógico,
+
+Gostaria que houvesse uma pesquisa capaz de analisar padrões de comportamento e desempenho dos alunos, utilizando machine learning,
+
+Para que possamos identificar precocemente os alunos em risco de evasão escolar e intervir de maneira eficaz.
+
+Critérios de Aceitação:
+
+1- Essa pesquisa deve ser realizada com base nos dados escolares disponibilizado pela a instituição existentes para coletar dados dos alunos.
+2- Deve utilizar algoritmos de machine learning para analisar padrões de comportamento e desempenho acadêmico.
+3- Essa pesquisa deve identificar e classificar os alunos com base no risco de evasão.
+4- Deve conter um dashboard intuitivo que permita aos coordenadores visualizar os dados analisados e as previsões de risco de evasão.
+5- O dashboard deve permitir a exportação de relatórios detalhados sobre alunos em risco para facilitar a intervenção.
+
+
+Pontuação: 8.
