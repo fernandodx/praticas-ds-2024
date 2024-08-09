@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Alert com Builder</title>
+    <script type="module" src="app-alert.js" defer></script>
+    <style>
+        .alert-banner {
+            background-color: #037280;
+            color: azure;
+            padding: 20px;
+            border-radius: 16px;
+            display: flex;
+            margin: 40px;
+            font-family: 'Gill Sans';
+            display: none; /* Inicialmente oculto */
+        }
+
+        .alert-icon {
+            margin-right: 15px;
+            width: 40px;
+            height: 40px;
+        }
+
+        .alert-titulo {
+            font-size: 18px;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        .alert-msg {
+            font-size: 14px;
+        }
+
+        .alert-buttons {
+            margin-top: 15px;
+            display: flex;
+        }
+
+        .alert-button {
+            padding: 8px 16px;
+            margin-right: 12px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            color: azure;
+            background-color: blueviolet;
+        }
+
+        .alert-button.cancel {
+            background-color: brown;
+        }
+    </style>
+</head>
+<body>
+    <button class="botaoAlerta">Mostrar Alerta</button>
+    
+    <div class="alert-banner">
+        <img class="alert-icon" src="" alt="Ícone de Alerta">
+        <div class="alert-content">
+            <div class="alert-titulo"></div>
+            <div class="alert-msg"></div>
+            <div class="alert-buttons">
+                <button class="alert-button"></button>
+                <button class="alert-button cancel"></button>
+            </div>
+        </div>      
+    </div>
+
+    <script type="module">
+        import { AlertBuilder } from './app-alert.js';
+
+        const botaoAlerta = document.querySelector('.botaoAlerta');
+        
+        botaoAlerta.addEventListener('click', () => {
+            const alertBuilder = new AlertBuilder();
+
+            const alert = alertBuilder
+                .setTitulo("Alerta Importante")
+                .setMensagem("Esta é uma mensagem de alerta usando o padrão Builder.")
+                .setIcone("https://cdn-icons-png.flaticon.com/512/559/559343.png")
+                .addButtonAceitar("OK")
+                .addButtonCancelar("Cancelar")
+                .addCallback(() => {
+                    console.log("Botão de Aceitar clicado!");
+                })
+                .build();
+
+            alert.show();
+        });
+    </script>
+</body>
+</html>

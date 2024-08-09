@@ -1,0 +1,21 @@
+APLICATIVO GLICOGOTAS E HISTÓRIA EM FELTRO DIGITAL: UMA FERRAMENTA PARA A ACEITAÇÃO DO DIAGNÓSTICO DO DIABETES MELLITUS TIPO 1
+
+Objetivo Principal: Vai ser projetado para auxiliar crianças e adolescentes diabéticos a enfrentar os desafios do dia a dia com maior compreensão e sensibilidade. 
+ 
+O aplicativo auxiliará no tratamento pois para um procedimento eficaz, a aceitação é o primeiro passo. 
+
+Funcionalidades Principais:
+1. Interface Amigável para Crianças.
+2. Conteúdo Educativo Interativo.
+3. Notificações Personalizadas e Lembretes.
+
+Metas de Curto Prazo (1 a 6 meses):
+- Desenvolvimento da interface gráfica.
+- Criação de conteúdo educativo.
+
+
+Metas de Longo Prazo (6 meses a 1 ano):
+- Testes com crianças e famílias.
+- Lançamento oficial nas lojas de aplicativos.
+- Desenvolvimento de parcerias com organizações de saúde e educação.
+

@@ -1,0 +1,18 @@
+
+
+
+História de Usuário: Desenvolvimento de Aplicativo de Autogerenciamento de Diabetes para Crianças
+
+Eu como desenvolvedora de aplicativos móveis.
+Gostaria de criar um aplicativo de autogerenciamento de diabetes especialmente projetado para crianças com diabetes tipo 1.
+Para que as crianças com diabetes tenham uma ferramenta intuitiva, educativa e divertida para ajudá-las a monitorar sua condição e promover hábitos saudáveis desde cedo.
+
+Critérios de Aceitação:
+
+O aplicativo deve ter uma interface gráfica colorida e amigável, adequada para crianças.
+Deve apresentar informações educativas sobre diabetes de maneira acessível para crianças, com ilustrações e animações interativas.
+O aplicativo deve ter a capacidade de enviar notificações personalizadas e lembretes para ajudar as crianças a lembrarem-se de fazer o teste de glicose, tomar a medicação e realizar outras ações importantes.
+Deve ser compatível com dispositivos móveis populares e estar disponível para download nas principais lojas de aplicativos.
+O aplicativo deve ser desenvolvido em conformidade com as regulamentações de privacidade e segurança de dados.
+
+Pontuação: Esta história de usuário será pontuada com 15 pontos, considerando a complexidade e a importância do desenvolvimento de um aplicativo voltado para o autogerenciamento de diabetes em crianças.
