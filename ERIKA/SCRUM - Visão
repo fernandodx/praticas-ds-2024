@@ -1,0 +1,18 @@
+Atividade 3 - Visão da Aplicação
+
+Objetivo Principal:
+Fornecer uma plataforma automatizada para disseminar informações sobre o Instituto Federal de Brasília (IFB) à comunidade, utilizando processamento de linguagem natural.
+
+Funcionalidades Principais:
+
+1 - Consultas rápidas sobre horários, cursos e calendários do IFB.
+2 - Notificações automáticas de notícias e comunicados.
+3 - Interação com linguagem natural para responder perguntas de forma clara.
+
+Metas de Curto Prazo:
+
+1 - Implementar funcionalidades básicas de consulta e integração com o sistema de notícias.
+
+Metas de Longo Prazo:
+
+1 - Ampliar consultas personalizadas e melhorar a capacidade de aprendizado do chatbot.
