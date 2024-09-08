@@ -1,0 +1,20 @@
+História de Usuário
+Título: Chatbot baseado em inteligência artificial para o Instituto Federal de Brasília. 
+
+Eu, como:
+
+Aluno do curso de TSI NOTURNO do Instituto Federal de Brasília (IFB).
+
+Gostaria que:
+
+O chatbot mantivesse a comunidade do IFB informado sobre as últimas notícias, eventos, lançamento de notas e comunicados do IFB de maneira rápida e acessível.
+Para que: Eu possa ficar atualizado sobre as atividades e comunicados do campus sem depender de outros canais de notícias não tão funcionais.
+
+Critérios de Aceitação:
+
+O chatbot deve ser treinado em processamento de linguagem natural, sendo capaz de entender, responder e acessar e exibir as últimas notícias e eventos oficiais do IFB, assim como saber responder as perguntas da comunidade geral a respeito do instituto.
+O conteúdo deve ser atualizado automaticamente e exibido de forma clara e organizada.
+O sistema deve ser simples para notícias anteriores ou mais detalhadas, se necessário.
+O chatbot deve garantir a agilidade e a precisão das informações divulgadas.
+
+Pontuação: 7, pois será preciso treinar a máquina em processamento de linguagem natural.
